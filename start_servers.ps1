@@ -2,7 +2,7 @@
 Write-Host "Starting LOLMeme servers..." -ForegroundColor Green
 
 # Set the Hugging Face token
-$env:HF_TOKEN = "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"
+$env:HF_TOKEN = "token here"
 
 # Start Backend
 Write-Host "Starting Backend..." -ForegroundColor Yellow
