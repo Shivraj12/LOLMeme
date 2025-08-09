@@ -35,10 +35,8 @@ LOLMeme is an AI-powered web app that transforms your boring photos into hilario
 
 ## 📸 Screenshots
 
-<div align="center">
-  <img src="https://via.placeholder.com/400x300/4ecdc4/ffffff?text=Upload+Interface" alt="Upload Interface" width="400"/>
-  <img src="https://via.placeholder.com/400x300/45b7d1/ffffff?text=Generated+Memes" alt="Generated Memes" width="400"/>
-</div>
+<img width="1897" height="886" alt="memes2" src="https://github.com/user-attachments/assets/5cd2e373-ec8b-4541-94fc-508c990640f7" />
+
 
 ## 🛠️ Tech Stack
 
